@@ -1,0 +1,48 @@
+    body{
+        text-align: center;
+    }
+
+.h1 {
+    margin-top: 30px;
+}
+
+.h2 {
+    margin-bottom: 30px;
+}
+
+    .btn{
+        height: 200px;
+        width: 200px;
+        border-radius: 20%;
+        border: 10px solid black;
+        margin: 2rem;
+    }
+
+    .btn-container{
+        display: flex;
+        justify-content: center;
+    }
+
+    .skyblue{
+        background-color: aqua;
+    }
+
+    .brown{
+        background-color: brown;
+    }
+
+    .blue{
+        background-color: blue;
+    }
+
+    .darkgreen{
+        background-color: darkgreen;
+    }
+
+    .flash{
+        background-color: black;
+    }
+
+    .userflash{
+        background-color: red;
+    }
